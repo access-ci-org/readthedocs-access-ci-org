@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'readthedocs.access-ci.org'
+copyright = '2023, ACCESS'
+author = 'JP Navarro'
 
 release = '0.1'
 version = '0.1.0'
