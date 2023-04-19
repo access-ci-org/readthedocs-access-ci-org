@@ -1,16 +1,11 @@
-Welcome to the ACCESS Read the Docs home
-========================================
+Welcome to the ACCESS ReadTheDocs home
+=========================================
 
-`Integration Roadmaps Documentation <https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/>`_
-
-.. note::
-
-   This project is under active development.
+This is the ReadTheDocs home for the `ACCESS-CI <https://access-ci.org/>`_ program. ACCESS projects that publish 
+ReadTheDocs sites will appear here. If this isn't what you were looking for, try 
+`ACCESS Support <https://support.access-ci.org/>`_.
 
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
+`ACCESS Integration Roadmaps <https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/>`_
